@@ -35,7 +35,7 @@ pip install -r requirements.txt
 GOOGLE_API_KEY=your_gemini_api_key_here
 ```
 
-## 🔧 Usage
+##  Usage
 
 1. Start the Streamlit application:
 ```bash
@@ -54,7 +54,7 @@ postgresql://user:password@host:port/database
 - "What is the total value of all small-sized items?"
 - "Calculate the revenue for Levi's items with discounts applied"
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 AskQL/
